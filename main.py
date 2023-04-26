@@ -7,7 +7,6 @@ from requests.exceptions import SSLError
 from time import sleep
 
 from print_colour import prRed, prGreen, prPurple, prYellow
-from split_merge import split
 
 load_dotenv()
 
